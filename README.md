@@ -1,0 +1,2 @@
+# File-Seperator
+File-Seperator is a simple tool I needed to extract informtions from a file. Each line is a entry and each entry have multiple information. This tool allowed me to extract those information into different files by passing to the program the starting and ending index of the information i need to capture .
